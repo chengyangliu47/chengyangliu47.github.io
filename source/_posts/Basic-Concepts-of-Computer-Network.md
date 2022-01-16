@@ -27,5 +27,4 @@ tags: Computer Network
 
 11. URL: A Uniform Resource Locator (URL), colloquially termed a web address, is a reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it. A URL is a specific type of Uniform Resource Identifier (URI)
 
-{% asset_img urluri.jpg url_vs_uri %}
-![](/Basic-Concepts-of-Computer-Network/urluri.jpg)
+![](/img/urluri.jpg)
